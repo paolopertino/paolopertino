@@ -15,7 +15,7 @@
 </div>
 
 - 👋 Hi, I’m @paolopertino
-- 👀 I’m interested in Artificial Intelligence and its applications
+- 👀 I’m interested in Artificial Intelligence and its applications. I am currently focusing on Deep Learning for solving computer vision tasks!
 - 🌱 I’m currently specializing in Artificial Intelligence at Politecnico di Milano (Computer Science and Engineering)
 - 📫 You can contact me through <a href="https://www.linkedin.com/in/paolo-pertino">LinkedIn</a> or by dropping me an <a href="mailto:paolo.pertino@mail.polimi.it">email</a>
 
