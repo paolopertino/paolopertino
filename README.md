@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m @paolopertino
 - 👀 I’m interested in Artificial Intelligence and its applications. I am currently focusing on Deep Learning for solving computer vision tasks!
-- 💼 I am currently working as a Research Assistant (Deep Learning Engineer) at AIDA PoliMi, conducting R&D within the perception team, with a focus on drivable area and lane line segmentation for self-driving cars.
+- 💼 I am currently working as a Perception Engineer at Niulinx, conducting R&D within the perception team, with a focus on drivable area and lane line segmentation for self-driving cars.
 - 🌱 I recently graduated in Artificial Intelligence at Politecnico di Milano (Computer Science and Engineering).
 - 📫 You can contact me through <a href="https://www.linkedin.com/in/paolo-pertino">LinkedIn</a> or by dropping me an <a href="mailto:paolo.pertino@mail.polimi.it">email</a>
 
